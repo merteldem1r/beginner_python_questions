@@ -20,7 +20,6 @@ Count the Number of 1's in the Binary Representation of a Number
         Input: 128
         Output: 1
         Explanation: The binary representation of 128 is 10000000.
-        Example 3:
 
         Input: 7
         Output: 3
